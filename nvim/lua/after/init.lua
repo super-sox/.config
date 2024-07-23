@@ -1,0 +1,7 @@
+require('after.colorscheme')
+require('after.telescope')
+require('after.harpoon')
+require('after.treesitter')
+require('after.lsp')
+require('after.undotree')
+require('after.fugitive')
