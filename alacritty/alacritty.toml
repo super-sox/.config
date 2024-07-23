@@ -9,6 +9,7 @@ bindings = [{key = "Enter", mods = "Super", action = "SpawnNewInstance"}]
 
 [font]
 normal = {family = "SauceCodePro Nerd Font", style = "Light"}
+size = 14
 
 # Default colors
 [colors.primary]
